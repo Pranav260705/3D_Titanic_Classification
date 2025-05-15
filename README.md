@@ -11,6 +11,26 @@ This project predicts passenger survival on the Titanic using a machine learning
 
 ## ⚙️ Tech Stack
 
+<table align="center" style="width:100%; border-collapse: collapse; text-align: center;">
+  <tr>
+    <td align="center">FontEnd</td>
+    <td align="center">BackEnd</td>
+    <td align="center">Machine Learning</td>
+    <td align="center">Data Analysis</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js" align="center"><br/>+<br/><img src="https://skillicons.dev/icons?i=threejs" align="center"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" align="center"> + <img src="https://skillicons.dev/icons?i=sklearn" align="center"></td>
+    <td align="center"><img width="80" src="https://github.com/user-attachments/assets/3865d31c-9d7c-469f-a0d0-d85f40e56127" alt="XGBoost" title="XGBoost"/></td>
+    <td align="center">
+       <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/>
+    </td>
+  </tr>
+</table>
+
+
 - **Backend**: Flask (web server), scikit-learn (machine learning)
 - **Frontend**: HTML, CSS, JavaScript, Three.js (3D rendering)
 - **Machine Learning**: Random Forest Classifier (primary), Logistic Regression (baseline), explored XGBoost
