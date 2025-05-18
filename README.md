@@ -1,6 +1,6 @@
 # Titanic Classification and 3D Visualization Project
 
-This project predicts passenger survival on the Titanic using a machine learning model and visualizes the ship with an interactive 3D model. Built during my CodeAlpha Internship, it combines data science with web development to create an engaging user experience.
+This project predicts passenger survival on the Titanic using a machine learning model and visualizes the ship with an interactive 3D model. Built Frem Scratch, it combines data science with web development to create an engaging user experience.
 
 ## Features
 
@@ -20,8 +20,12 @@ This project predicts passenger survival on the Titanic using a machine learning
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js" align="center"><br/>+<br/><img src="https://skillicons.dev/icons?i=threejs" align="center"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flask" align="center"> + <img src="https://skillicons.dev/icons?i=sklearn" align="center"></td>
-    <td align="center"><img width="80" src="https://github.com/user-attachments/assets/3865d31c-9d7c-469f-a0d0-d85f40e56127" alt="XGBoost" title="XGBoost"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" align="center"></td>
+    <td align="center">
+      <img width="80" src="https://github.com/user-attachments/assets/3865d31c-9d7c-469f-a0d0-d85f40e56127" alt="XGBoost" title="XGBoost"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=sklearn" align="center">
+    </td>
     <td align="center">
        <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
       <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
