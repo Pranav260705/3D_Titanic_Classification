@@ -2,6 +2,12 @@
 
 This project predicts passenger survival on the Titanic using a machine learning model and visualizes the ship with an interactive 3D model. Built Frem Scratch, it combines data science with web development to create an engaging user experience.
 
+## 🎬 Project Showcase Video 📽️
+
+▶️ [Watch on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7330408127697207296/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A7330405178682032128%2C7330554997769687040)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(7330554997769687040%2Curn%3Ali%3AugcPost%3A7330405178682032128)&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BntAzI5rFTSy42Wma%2BvT2hQ%3D%3D)  
+▶️ [Watch on YouTube](https://youtu.be/XhbllR8bzM0)
+
+
 ## Features
 
 - **Survival Prediction**: A Random Forest model predicts survival based on passenger features (e.g., Age, Gender, Pclass, Embarked).
