@@ -2,27 +2,27 @@
 
 This project predicts passenger survival on the Titanic using a machine learning model and visualizes the ship with an interactive 3D model. Built Frem Scratch, it combines data science with web development to create an engaging user experience.
 
-## 🎬 Project Showcase Video 📽️
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper Board" width="25" height="25" /> Project Showcase Video <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Movie%20Camera.png" alt="Movie Camera" width="25" height="25" />
 
-▶️ [Watch on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7330408127697207296/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A7330405178682032128%2C7330554997769687040)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(7330554997769687040%2Curn%3Ali%3AugcPost%3A7330405178682032128)&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BntAzI5rFTSy42Wma%2BvT2hQ%3D%3D)  
-▶️ [Watch on YouTube](https://youtu.be/XhbllR8bzM0)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Frames.png" alt="Film Frames" width="25" height="25" /> [Watch on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7330408127697207296/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A7330405178682032128%2C7330554997769687040)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(7330554997769687040%2Curn%3Ali%3AugcPost%3A7330405178682032128)&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BntAzI5rFTSy42Wma%2BvT2hQ%3D%3D)  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Frames.png" alt="Film Frames" width="25" height="25" /> [Watch on YouTube](https://youtu.be/XhbllR8bzM0)
 
 
-## Features
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> Features
 
 - **Survival Prediction**: A Random Forest model predicts survival based on passenger features (e.g., Age, Gender, Pclass, Embarked).
 - **Interactive 3D Visualization**: A `.glb` model of the Titanic, rendered with Three.js, supports camera rotation.
 - **Web Interface**: Users can input passenger details via a web form and view survival predictions in real-time.
 - **Accuracy**: Achieves ~80% accuracy on the test dataset.
 
-## ⚙️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Tech Stack
 
 <table align="center" style="width:100%; border-collapse: collapse; text-align: center;">
   <tr>
-    <td align="center">FontEnd</td>
-    <td align="center">BackEnd</td>
-    <td align="center">Machine Learning</td>
-    <td align="center">Data Analysis</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Window.png" alt="Window" width="25" height="25" /> FontEnd</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="25" height="25" /> BackEnd</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" alt="Mechanical Arm" width="25" height="25" /> Machine Learning</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Data Analysis</td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js" align="center"><br/>+<br/><img src="https://skillicons.dev/icons?i=threejs" align="center"></td>
@@ -47,7 +47,7 @@ This project predicts passenger survival on the Titanic using a machine learning
 - **Data**: Titanic dataset (`train.csv`, `test.csv`, `gender_submission.csv`)
 - **Model Storage**: Pickle file (`titanic_model.pkl`)
 
-## Project Structure
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="File Folder" width="25" height="25" /> Project Structure
 
 ```
 CodeAlpha_Titanic_Classification/
