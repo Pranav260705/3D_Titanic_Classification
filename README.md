@@ -7,7 +7,6 @@ This project predicts passenger survival on the Titanic using a machine learning
 1. **Clone the Repository**:
    ```bash
    git clone <repository-url>
-   cd CodeAlpha_Titanic_Classification
    ```
 
 2. **Install Dependencies**:
